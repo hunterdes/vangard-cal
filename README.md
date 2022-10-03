@@ -1,4 +1,4 @@
-# vangard-cal
+# vangard JS calculator
 This is for fun, please dont judge 😄. 
 ## Instruction
 1. Go to Chrome or any mordern browser
